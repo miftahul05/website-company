@@ -1,0 +1,81 @@
+.banner {
+  background-image: url(img/company.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
+
+.banner h3 {
+  text-transform: capitalize;
+  margin-top: -5px;
+  font-style: italic;
+}
+
+.banner h4 {
+  text-transform: capitalize;
+  margin-top: -5px;
+}
+
+.banner .btn {
+  text-transform: capitalize;
+  font-weight: bold;
+}
+
+.layanan {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.lingkaran {
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: #fff;
+  background-color: #dc3545;
+  
+}
+
+.lingkaran i {
+  position: relative;
+  top: 30px;
+  background-size: cover;
+}
+
+.tim img {
+  width: 250px;
+  height: 250px;
+  border: 10px solid #ccc;
+}
+
+.a, .social {
+  width: 100px;
+  height: 100px;
+  color: #fff;
+  border-radius: 50%;
+  background-color: #333;
+  line-height: 40px;
+}
+
+.client img {
+  width: 100px;
+  height: 100px;
+  filter: grayscale();
+  /* display: flex; */
+  align-items: center;
+  border-radius: 50%;
+}
+
+.kontak {
+  background: url(img/pc\ background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  color: #fff;
+  align-items: center;
+}
+
